@@ -32,7 +32,7 @@ The **Task Management App** is a simple and user-friendly tool to help users man
 
 ## Project Structure
 
-.
+```.
 ├── public
 │ └── index.html
 ├── src
@@ -45,6 +45,7 @@ The **Task Management App** is a simple and user-friendly tool to help users man
 │ ├── App.js # Main app component with routing
 │ └── index.js # Entry point of the app
 └── README.md
+```
 
 ## Getting Started
 
